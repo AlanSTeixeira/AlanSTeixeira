@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 💬 Me pergunte sobre **Python,Machine Learning e Estatística**
+- 💬 Me pergunte sobre **Python, Machine Learning e Estatística**
 
 - 📫 Você me acha através do e-mail **alanteixeira.py@gmail.com**
 
